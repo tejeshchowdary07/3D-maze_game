@@ -21,6 +21,3 @@ This is a 3D first-person maze game built using the [Ursina Engine](https://www.
 - Python 3.7 or higher
 - ursina Python package
 
-Install Ursina:
-```bash
-pip install ursina
